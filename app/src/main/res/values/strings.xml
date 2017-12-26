@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nhắc nhở</string>
+    <string name="action_settings">Cài Đặt</string>
+    <string name="no_to_dos">Bạn lập lịch làm việc</string>
+    <string name="title">Tiêu đề</string>
+    <string name="remind_me">Nhắc nhở tôi</string>
+    <string name="choose_date">Ngày</string>
+    <string name="choose_time">Thời gian</string>
+    <string name="remind_date_and_time">Nhắc nhở tui %1$s, %2$s %3$s</string>
+    <string name="about">Thông tin  </string>
+    <string name="app_version">Phiên bản: %1$s</string>
+    <string name="contact_me">Liên hệ với tôi</string>
+    <string name="made_by">Made by Avjinder</string>
+    <string name="done_label">Đã làm </string>
+    <string name="date_reminder_default">Hôm nay</string>
+    <string name="date_error_check_again">Đã làm.</string>
+    <string name="night_mode">Chế độ ban đêm</string>
+    <string name="night_mode_on_summary">Chế độ ban đêm đã bật</string>
+    <string name="night_mode_off_summary">Chế độ ban đêm đã tắt</string>
+
+    <string-array name="snooze_options">
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+    </string-array>
+
+    <string name="snooze">Snooze</string>
+    <string name="remove">Remove</string>
+    <string name="todo_error">Please enter a Todo</string>
+</resources>
